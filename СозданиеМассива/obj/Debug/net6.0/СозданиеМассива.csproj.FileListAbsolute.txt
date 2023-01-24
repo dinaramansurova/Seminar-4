@@ -1,0 +1,15 @@
+C:\Users\ashso\OneDrive\Рабочий стол\Seminar-4\Лекция\Tasks\СозданиеМассива\bin\Debug\net6.0\СозданиеМассива.exe
+C:\Users\ashso\OneDrive\Рабочий стол\Seminar-4\Лекция\Tasks\СозданиеМассива\bin\Debug\net6.0\СозданиеМассива.deps.json
+C:\Users\ashso\OneDrive\Рабочий стол\Seminar-4\Лекция\Tasks\СозданиеМассива\bin\Debug\net6.0\СозданиеМассива.runtimeconfig.json
+C:\Users\ashso\OneDrive\Рабочий стол\Seminar-4\Лекция\Tasks\СозданиеМассива\bin\Debug\net6.0\СозданиеМассива.dll
+C:\Users\ashso\OneDrive\Рабочий стол\Seminar-4\Лекция\Tasks\СозданиеМассива\bin\Debug\net6.0\СозданиеМассива.pdb
+C:\Users\ashso\OneDrive\Рабочий стол\Seminar-4\Лекция\Tasks\СозданиеМассива\obj\Debug\net6.0\СозданиеМассива.csproj.AssemblyReference.cache
+C:\Users\ashso\OneDrive\Рабочий стол\Seminar-4\Лекция\Tasks\СозданиеМассива\obj\Debug\net6.0\СозданиеМассива.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ashso\OneDrive\Рабочий стол\Seminar-4\Лекция\Tasks\СозданиеМассива\obj\Debug\net6.0\СозданиеМассива.AssemblyInfoInputs.cache
+C:\Users\ashso\OneDrive\Рабочий стол\Seminar-4\Лекция\Tasks\СозданиеМассива\obj\Debug\net6.0\СозданиеМассива.AssemblyInfo.cs
+C:\Users\ashso\OneDrive\Рабочий стол\Seminar-4\Лекция\Tasks\СозданиеМассива\obj\Debug\net6.0\СозданиеМассива.csproj.CoreCompileInputs.cache
+C:\Users\ashso\OneDrive\Рабочий стол\Seminar-4\Лекция\Tasks\СозданиеМассива\obj\Debug\net6.0\СозданиеМассива.dll
+C:\Users\ashso\OneDrive\Рабочий стол\Seminar-4\Лекция\Tasks\СозданиеМассива\obj\Debug\net6.0\refint\СозданиеМассива.dll
+C:\Users\ashso\OneDrive\Рабочий стол\Seminar-4\Лекция\Tasks\СозданиеМассива\obj\Debug\net6.0\СозданиеМассива.pdb
+C:\Users\ashso\OneDrive\Рабочий стол\Seminar-4\Лекция\Tasks\СозданиеМассива\obj\Debug\net6.0\СозданиеМассива.genruntimeconfig.cache
+C:\Users\ashso\OneDrive\Рабочий стол\Seminar-4\Лекция\Tasks\СозданиеМассива\obj\Debug\net6.0\ref\СозданиеМассива.dll

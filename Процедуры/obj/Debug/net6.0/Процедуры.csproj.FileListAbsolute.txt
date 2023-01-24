@@ -1,0 +1,15 @@
+C:\Users\ashso\OneDrive\Рабочий стол\Seminar-4\Лекция\Tasks\Процедуры\bin\Debug\net6.0\Процедуры.exe
+C:\Users\ashso\OneDrive\Рабочий стол\Seminar-4\Лекция\Tasks\Процедуры\bin\Debug\net6.0\Процедуры.deps.json
+C:\Users\ashso\OneDrive\Рабочий стол\Seminar-4\Лекция\Tasks\Процедуры\bin\Debug\net6.0\Процедуры.runtimeconfig.json
+C:\Users\ashso\OneDrive\Рабочий стол\Seminar-4\Лекция\Tasks\Процедуры\bin\Debug\net6.0\Процедуры.dll
+C:\Users\ashso\OneDrive\Рабочий стол\Seminar-4\Лекция\Tasks\Процедуры\bin\Debug\net6.0\Процедуры.pdb
+C:\Users\ashso\OneDrive\Рабочий стол\Seminar-4\Лекция\Tasks\Процедуры\obj\Debug\net6.0\Процедуры.csproj.AssemblyReference.cache
+C:\Users\ashso\OneDrive\Рабочий стол\Seminar-4\Лекция\Tasks\Процедуры\obj\Debug\net6.0\Процедуры.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ashso\OneDrive\Рабочий стол\Seminar-4\Лекция\Tasks\Процедуры\obj\Debug\net6.0\Процедуры.AssemblyInfoInputs.cache
+C:\Users\ashso\OneDrive\Рабочий стол\Seminar-4\Лекция\Tasks\Процедуры\obj\Debug\net6.0\Процедуры.AssemblyInfo.cs
+C:\Users\ashso\OneDrive\Рабочий стол\Seminar-4\Лекция\Tasks\Процедуры\obj\Debug\net6.0\Процедуры.csproj.CoreCompileInputs.cache
+C:\Users\ashso\OneDrive\Рабочий стол\Seminar-4\Лекция\Tasks\Процедуры\obj\Debug\net6.0\Процедуры.dll
+C:\Users\ashso\OneDrive\Рабочий стол\Seminar-4\Лекция\Tasks\Процедуры\obj\Debug\net6.0\refint\Процедуры.dll
+C:\Users\ashso\OneDrive\Рабочий стол\Seminar-4\Лекция\Tasks\Процедуры\obj\Debug\net6.0\Процедуры.pdb
+C:\Users\ashso\OneDrive\Рабочий стол\Seminar-4\Лекция\Tasks\Процедуры\obj\Debug\net6.0\Процедуры.genruntimeconfig.cache
+C:\Users\ashso\OneDrive\Рабочий стол\Seminar-4\Лекция\Tasks\Процедуры\obj\Debug\net6.0\ref\Процедуры.dll
